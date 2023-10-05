@@ -5,9 +5,9 @@ function Nav() {
     <>
   <ul>
 
-  <a href='/About'> <li>Home</li></a>
-    <li>About</li>
-    <li>Contact</li>
+  <a href='/'> <li>Home</li></a>
+  <a href='/about'> <li>About</li></a> 
+  <a href='/contact'> <li>Contact</li></a> 
   </ul>
   </>
   );
